@@ -211,7 +211,7 @@ We have included a `transparent` theme that has a transparent background. This t
 <details>
 <summary>:eyes: Show example</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats-minhna1112.vercel.app/api?username=minhna1112\&show_icons=true\&theme=transparent)
+![Minh Nguyen's GitHub stats](https://github-readme-stats-minhna1112.vercel.app/api?username=minhna1112\&show_icons=true\&theme=gotham)
 
 </details>
 
